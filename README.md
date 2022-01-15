@@ -2,6 +2,10 @@
 
 just testing exports with latest libraries
 
+## current status
+
+see the notebook(s) inside the `/mounted` directory to see current test status.
+
 ## base system info
 
 ```
